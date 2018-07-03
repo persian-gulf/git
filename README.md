@@ -1,6 +1,6 @@
-Git Persian Guide
+راهنمای فارسی گیت
 =====
 
-A little book on Git in Persian.
+یک کتاب کوچک در گیت به فارسی.
 
-[Online](http://git.coderz.ir)
+[Online](https://pertech.ir)
